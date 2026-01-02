@@ -1,5 +1,5 @@
 # MOSmitter
-A simple AM 20m band transmitter
+A simple AM 20m 14.3MHz using 2 mosfets
 
 EasyEDA link to [MOSmitter](https://oshwlab.com/simonko912/tests)
 
