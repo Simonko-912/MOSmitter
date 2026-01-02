@@ -4,14 +4,14 @@ EasyEDA link to [MOSmitter](https://oshwlab.com/simonko912/tests)
 
 Part list:
 1. 2 N type mosfets (SP40N02GTD)
-2. 2 4.7k resistors (For audio)
-3. 1 14.3MHz crystal (For carrier)
-4. 5.5v to 3.3v module
-5. 4 10ohm resistors (For safety)
+2. 2 4.7k resistors SMD (For audio)
+3. 1 14.3MHz crystal SMD (For carrier)
+4. 5.5v to 3.3v module SMD
+5. 4 10ohm resistors SMD (For safety)
 6. 2 150pF capacitors (Film caps)
 7. 1 1uF capacitor (Film cap)
 8. 2 100uF electrolytic capacitors (Smooth 5v and 30v)
-9. 1 Aux input
+9. 1 Aux input SMD
 10. 1 3-Pin header (For 5v, 30v and GND)
 11. 1 1-Pin header for antena
 12. 1 PCB 
