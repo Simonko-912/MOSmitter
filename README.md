@@ -2,7 +2,7 @@
 A simple AM 20m 14.3MHz ham transmitter using 2 mosfets
 EasyEDA link to [MOSmitter](https://oshwlab.com/simonko912/tests)
 
-Part list:
+## Part list:
  2 N type mosfets (SP40N02GTD)
  2 4.7k resistors (For audio)
  1 14.3MHz crystal SMD (For carrier)
@@ -11,11 +11,18 @@ Part list:
  1 1uF capacitor (Film cap)
  2 100uF electrolytic capacitors (Smooth 5v and 30v)
  1 Aux input 
- 1 3-Pin header (For 5v, 30v and GND)
+ 1 3-Pin header (For 3.3v, 30v and GND)
  1 1-Pin header for antena
  1 LED
  1 220ohm resistor (For led) 
  1 PCB 
+ 
+3 pin header pinout
+3.3v
+12 - 30v 
+GND
+
+## How to buy?
 
 [BOM (LTSC)](https://www.lcsc.com/personalCenter/myProject/5499373816002DC23D7A4FDA4E53A5CA)
 ~$8.39 (Some parts in bulk, soon gonna be replaced)
@@ -23,7 +30,11 @@ Part list:
 ~$4
 
 Est with shipping: ~$15
-<img width="1172" height="793" alt="pcb" src="https://github.com/user-attachments/assets/35824a78-8c1b-4c5e-8769-7b48a669e906" />
 
+## Images
+<img width="1172" height="793" alt="pcb" src="https://github.com/user-attachments/assets/35824a78-8c1b-4c5e-8769-7b48a669e906" />
 <img width="1535" height="876" alt="image" src="https://github.com/user-attachments/assets/d452de60-929e-4675-97dc-69c6baec9e2c" />
 
+## Info about transmitter
+
+None, no one made it yet. Be first to [make it](https://github.com/Simonko-912/MOSmitter/edit/main/README.md#how-to-buy)
