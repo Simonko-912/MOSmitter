@@ -24,7 +24,8 @@ GND
 
 ## How to buy?
 
-[BOM (LTSC)](https://www.lcsc.com/personalCenter/myProject/5499373816002DC23D7A4FDA4E53A5CA)
+Make a bom [here](https://oshwlab.com/simonko912/tests)
+<img width="1123" height="692" alt="image" src="https://github.com/user-attachments/assets/5130d1b6-9220-4e8a-8c73-bf46d9f7e101" />
 ~$8.39 (Some parts in bulk, soon gonna be replaced)
 [JLCPCB](https://cart.jlcpcb.com/quote?fileId=744c9d1508734a43890dd6b218d14d7c&uuid=4b9c4bc9b2dd47d69ba4bd974758b8fe&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro)
 ~$4
