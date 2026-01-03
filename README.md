@@ -1,5 +1,5 @@
 # MOSmitter
-A simple AM 20m 14.3MHz using 2 mosfets
+A simple AM 20m 14.3MHz ham transmitter using 2 mosfets
 EasyEDA link to [MOSmitter](https://oshwlab.com/simonko912/tests)
 
 Part list:
@@ -18,11 +18,11 @@ Part list:
  1 PCB 
 
 [BOM (LTSC)](https://www.lcsc.com/personalCenter/myProject/5499373816002DC23D7A4FDA4E53A5CA)
-~$8.39 (Some parts in bulk)
-[JLCPCB](https://cart.jlcpcb.com/quote?fileId=04909cbfa24949b9b4f0b832cf83de01&uuid=f2e566a885e64e809c7ce3e46017fc53&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro)
-~$2
+~$8.39 (Some parts in bulk, soon gonna be replaced)
+[JLCPCB](https://cart.jlcpcb.com/quote?fileId=744c9d1508734a43890dd6b218d14d7c&uuid=4b9c4bc9b2dd47d69ba4bd974758b8fe&achieveDate=72&eadLink=2&electropolishingOnlyNo=no&from=eda-pro)
+~$4
 
-Est with shipping: ~$14
+Est with shipping: ~$15
 <img width="1172" height="793" alt="pcb" src="https://github.com/user-attachments/assets/35824a78-8c1b-4c5e-8769-7b48a669e906" />
 
 <img width="1535" height="876" alt="image" src="https://github.com/user-attachments/assets/d452de60-929e-4675-97dc-69c6baec9e2c" />
